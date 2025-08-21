@@ -6,7 +6,7 @@
 
 :blush:This group is led by Prof. Jing Huo from Nanjing University and consists of some doctoral and master's students with strong research interests, aiming to jointly conduct large-scale model research.
 
-## :star: Our Works
+## :star: Our Works ![](https://img.shields.io/badge/Conference-green)  ![](https://img.shields.io/badge/Journal-blue) ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Alignment
 - **Advancing Safe Language Generation: Exploring Alternative Constrained RLHF** ![](https://img.shields.io/badge/ICME2025-green)  
