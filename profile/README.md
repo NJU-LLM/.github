@@ -30,5 +30,5 @@
   *Hongye Cao, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng*
 
 ### Reasoning
-- **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning** ![](https://img.shields.io/badge/Arxiv-orange)  
+- **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning** ![](https://img.shields.io/badge/Arxiv-orange) [[Repo](https://github.com/HenryZhen97/Reconsidering-Overthinking)]  
   *Jialiang Hong, Taihang Zhen, Kai Chen, Jiaheng Liu, Wenpeng Zhu, Jing Huo, Yang Gao, Depeng Wang, Haitao Wan, Xi Yang, Boyan Wang, Fanyu Meng*
