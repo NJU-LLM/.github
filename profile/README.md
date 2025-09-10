@@ -15,8 +15,8 @@
 - **MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/KaiChenNJ/MedSentry)  
   *Kai Chen, Taihang Zhen, Hewei Wang, Kailai Liu, Xinfeng Li, Jing Huo, Tianpei Yang, Jinfeng Xu, Wei Dong, Yang Gao*
 
-- **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**![](https://img.shields.io/badge/Arxiv-orange)
- 
+- **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**![](https://img.shields.io/badge/Arxiv-orange)  
+  *Kai Chen, Xinfeng Li, Tianpei Yang, Hewei Wang, Guang Yang, Boyan Wang, Jing Huo*
 
 ### Alignment
 - **Advancing Safe Language Generation: Exploring Alternative Constrained RLHF** ![](https://img.shields.io/badge/ICME2025-green)  
