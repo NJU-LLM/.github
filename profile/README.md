@@ -4,7 +4,7 @@
 
 </div>
 
-:blush:This group consists of some doctoral and master's students with strong research interests from Nanjing University, aiming to jointly conduct large-scale model research.
+:blush:This group consists of some doctoral and master's students with strong research interests from Nanjing University, aiming to jointly conduct large language model research.
 
 ## :star: Our Works ![](https://img.shields.io/badge/Conference-green)  ![](https://img.shields.io/badge/Journal-blue) ![](https://img.shields.io/badge/Arxiv-orange)
 
