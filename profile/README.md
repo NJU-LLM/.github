@@ -36,5 +36,5 @@
 
 
 ### Survey
-- **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective**  
+- **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective** ![](https://img.shields.io/badge/ML-blue)  
   *Yanming Wang, Zhixin Bai, Jing Huo, Boyan Wang, Jiaheng Liu, Hongye Cao, Fanyu Meng, Xi Yang, Yang Gao*
