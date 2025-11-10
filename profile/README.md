@@ -38,5 +38,5 @@
   *Linjian Meng, Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, Jing Huo, Yang Gao*
 
 ### Survey
-- **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective** ![](https://img.shields.io/badge/Machine_Learning-blue)  
+- **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective** ![](https://img.shields.io/badge/Machine_Learning-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/Awesome-LLM-Safety)   
   *Yanming Wang, Zhixin Bai, Jing Huo, Boyan Wang, Jiaheng Liu, Hongye Cao, Fanyu Meng, Xi Yang, Yang Gao*
