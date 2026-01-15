@@ -9,7 +9,7 @@
 ## :star: Our Works ![](https://img.shields.io/badge/Conference-green)  ![](https://img.shields.io/badge/Journal-blue) ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Agent 
-- **A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models** [![](https://img.shields.io/badge/ICASSP_2025-green)](https://ieeexplore.ieee.org/document/10889517)
+- **A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models** [![](https://img.shields.io/badge/ICASSP_2025-green)](https://ieeexplore.ieee.org/document/10889517)  
   *Kai Chen, Ji Qi, Jing Huo, Pinzhuo Tian, Fanyu Meng, Xi Yang*
 
 - **MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/KaiChenNJ/MedSentry)  
@@ -19,7 +19,7 @@
   *Kai Chen, Xinfeng Li, Tianpei Yang, Hewei Wang, Guang Yang, Boyan Wang, Jing Huo*
 
 ### Alignment
-- **Advancing Safe Language Generation: Exploring Alternative Constrained RLHF** ![](https://img.shields.io/badge/ICME_2025-green)  
+- **Advancing Safe Language Generation: Exploring Alternative Constrained RLHF** [![](https://img.shields.io/badge/ICME_2025-green)](https://ieeexplore.ieee.org/document/11208943)  
   *Fanyu Meng, Zhixin Bai, Yanming Wang, Jing Huo, Boyan Wang, Xi Yang, Yang Gao*
   
 - **Mitigating the Synergistic Decrease Effect in Large Language Models Alignment**  
