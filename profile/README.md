@@ -10,7 +10,7 @@
 
 ### Agent 
 - **A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models** [![](https://img.shields.io/badge/ICASSP_2025-green)](https://ieeexplore.ieee.org/document/10889517)  
-  *Kai Chen, Ji Qi, Jing Huo, Pinzhuo Tian, Fanyu Meng, Xi Yang*
+  *Kai Chen, Ji Qi, Jing Huo, Pinzhuo Tian, Fanyu Meng, Xi Yang, Yang Gao*
 
 - **MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/KaiChenNJ/MedSentry)  
   *Kai Chen, Taihang Zhen, Hewei Wang, Kailai Liu, Xinfeng Li, Jing Huo, Tianpei Yang, Jinfeng Xu, Wei Dong, Yang Gao*
