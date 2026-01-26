@@ -27,7 +27,7 @@
   [[Repo](https://github.com/HenryZhen97/DGPO)]
   
 ### Benchmark
-- **SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks**  ![](https://img.shields.io/badge/IC;R_2026-green) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/SafeDialBench-Dataset)  
+- **SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks**  ![](https://img.shields.io/badge/ICLR_2026-green) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/SafeDialBench-Dataset)  
   *Hongye Cao, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng*
     
 ### Reasoning
