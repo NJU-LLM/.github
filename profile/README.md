@@ -24,7 +24,7 @@
   
 - **Mitigating the Synergistic Decrease Effect in Large Language Models Alignment**  
   *Taihang Zhen, Fanyu Meng, Boyan Wang, Jiaheng Liu, Jing Huo, Yang Gao, Xi Yang, Chao Deng, Junlan Feng*
-  [[Repo](https://github.com/HenryZhen97/DGPO)]
+  [[Repo](https://github.com/HenryZhen97/CWPO)]
   
 ### Benchmark
 - **SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks**  ![](https://img.shields.io/badge/ICLR_2026-green) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/SafeDialBench-Dataset)  
