@@ -12,12 +12,6 @@
 - **A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models** [![](https://img.shields.io/badge/ICASSP_2025-green)](https://ieeexplore.ieee.org/document/10889517)  
   *Kai Chen, Ji Qi, Jing Huo, Pinzhuo Tian, Fanyu Meng, Xi Yang, Yang Gao*
 
-- **MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/KaiChenNJ/MedSentry)  
-  *Kai Chen, Taihang Zhen, Hewei Wang, Kailai Liu, Xinfeng Li, Jing Huo, Tianpei Yang, Jinfeng Xu, Wei Dong, Yang Gao*
-
-- **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation** ![](https://img.shields.io/badge/Arxiv-orange)   
-  *Kai Chen, Xinfeng Li, Tianpei Yang, Hewei Wang, Guang Yang, Boyan Wang, Jing Huo*
-
 ### Alignment
 - **Advancing Safe Language Generation: Exploring Alternative Constrained RLHF** [![](https://img.shields.io/badge/ICME_2025-green)](https://ieeexplore.ieee.org/document/11208943)  
   *Fanyu Meng, Zhixin Bai, Yanming Wang, Jing Huo, Boyan Wang, Xi Yang, Yang Gao*
