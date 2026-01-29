@@ -1,6 +1,6 @@
 <div align="center">
 
-# NJU-LLM
+# NJU & China Mobile-LLM
 
 </div>
 
@@ -15,10 +15,6 @@
 ### Alignment
 - **Advancing Safe Language Generation: Exploring Alternative Constrained RLHF** [![](https://img.shields.io/badge/ICME_2025-green)](https://ieeexplore.ieee.org/document/11208943)  
   *Fanyu Meng, Zhixin Bai, Yanming Wang, Jing Huo, Boyan Wang, Xi Yang, Yang Gao*
-  
-- **Mitigating the Synergistic Decrease Effect in Large Language Models Alignment**  
-  *Taihang Zhen, Fanyu Meng, Boyan Wang, Jiaheng Liu, Jing Huo, Yang Gao, Xi Yang, Chao Deng, Junlan Feng*
-  [[Repo](https://github.com/HenryZhen97/CWPO)]
   
 ### Benchmark
 - **SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks**  ![](https://img.shields.io/badge/ICLR_2026-green) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/SafeDialBench-Dataset)  
