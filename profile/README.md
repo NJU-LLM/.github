@@ -21,11 +21,15 @@
   *Hongye Cao, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng*
     
 ### Reasoning
-- **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/HenryZhen97/Reconsidering-Overthinking)  
-  *Jialiang Hong, Taihang Zhen, Kai Chen, Jiaheng Liu, Junlan Feng, Wenpeng Zhu, Jing Huo, Yang Gao, Depeng Wang, Haitao Wan, Xi Yang, Boyan Wang, Fanyu Meng, Yuyao Zhang*
+- **Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning** [![](https://img.shields.io/badge/ACL_2026-green)](https://ieeexplore.ieee.org/document/11208943)  
+  *Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, Linjian Meng, Jing Huo, Yang Gao*
 
 - **Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/zldscr0/SENT)  
-  *Hongye Cao, Zhixin Bai, Ziyue Peng, Boyan Wang, Tianpei Yang, Jing Huo, Yuyao Zhang, Yang Gao*  
+  *Hongye Cao, Zhixin Bai, Ziyue Peng, Boyan Wang, Tianpei Yang, Jing Huo, Yuyao Zhang, Yang Gao*
+
+- **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/HenryZhen97/Reconsidering-Overthinking)  
+  *Jialiang Hong, Taihang Zhen, Kai Chen, Jiaheng Liu, Junlan Feng, Wenpeng Zhu, Jing Huo, Yang Gao, Depeng Wang, Haitao Wan, Xi Yang, Boyan Wang, Fanyu Meng, Yuyao Zhang*
+ 
 
 ### Survey
 - **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective** ![](https://img.shields.io/badge/Machine_Learning-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/Awesome-LLM-Safety)   
