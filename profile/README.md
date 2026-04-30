@@ -21,7 +21,7 @@
   *Hongye Cao, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng*
     
 ### Reasoning
-- **Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning** [![](https://img.shields.io/badge/ACL_2026-green)](https://ieeexplore.ieee.org/document/11208943)  
+- **Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning** ![](https://img.shields.io/badge/ACL_2026-green)  
   *Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, Linjian Meng, Jing Huo, Yang Gao*
 
 - **Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning** ![](https://img.shields.io/badge/Arxiv-orange) ![GitHub Repo stars](https://img.shields.io/github/stars/zldscr0/SENT)  
@@ -32,5 +32,8 @@
  
 
 ### Survey
+- **A Survey of Joint Online-Offline Fine-tuning for Large Language Models** ![](https://img.shields.io/badge/IJCAI_2026-green)  
+  *Taihang Zhen, Guang Yang, Chenzhang Li, Nuo Yan, Shilong Zhou, Guangyu Liu, Xiaotong Tang, Jing Huo, Boyan Wang, Junlan Feng, Yuyao Zhang*
+  
 - **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective** ![](https://img.shields.io/badge/Machine_Learning-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/Awesome-LLM-Safety)   
   *Yanming Wang, Zhixin Bai, Jing Huo, Boyan Wang, Jiaheng Liu, Hongye Cao, Fanyu Meng, Xi Yang, Yang Gao*
