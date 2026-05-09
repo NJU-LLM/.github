@@ -35,5 +35,5 @@
 - **A Survey of Joint Online-Offline Fine-tuning for Large Language Models** ![](https://img.shields.io/badge/IJCAI_2026-green)  
   *Taihang Zhen, Guang Yang, Chenzhang Li, Nuo Yan, Shilong Zhou, Guangyu Liu, Xiaotong Tang, Jing Huo, Boyan Wang, Junlan Feng, Yuyao Zhang*
   
-- **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective** ![](https://img.shields.io/badge/Machine_Learning-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/Awesome-LLM-Safety)   
+- **Mitigating Security Risks in Large Language Models: A Full Lifecycle Perspective** ![](https://img.shields.io/badge/Machine_Learning-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/drivetosouth/Awesome-LLM-Safety)  
   *Yanming Wang, Zhixin Bai, Jing Huo, Boyan Wang, Jiaheng Liu, Hongye Cao, Fanyu Meng, Xi Yang, Yang Gao*
